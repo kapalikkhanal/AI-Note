@@ -1,0 +1,569 @@
+task,priority,priority_numeric,priority_High,priority_Low,priority_Medium
+Submit quarterly report,High,3,True,False,False
+Update client database,Medium,2,False,False,True
+Restock office supplies,Low,1,False,True,False
+Prepare presentation slides,High,3,True,False,False
+Schedule team meeting,Medium,2,False,False,True
+Review project proposals,High,3,True,False,False
+Back up computer files,Medium,2,False,False,True
+Clean workspace,Low,1,False,True,False
+Submit expense reports,High,3,True,False,False
+Update software licenses,Medium,2,False,False,True
+Send follow-up emails,Low,1,False,True,False
+Prepare budget forecast,High,3,True,False,False
+Organize digital files,Medium,2,False,False,True
+Water office plants,Low,1,False,True,False
+Complete performance reviews,High,3,True,False,False
+Update project timeline,Medium,2,False,False,True
+Order business cards,Low,1,False,True,False
+Review contract terms,High,3,True,False,False
+Schedule client calls,Medium,2,False,False,True
+Archive old documents,Low,1,False,True,False
+Prepare training materials,High,3,True,False,False
+Update team calendar,Medium,2,False,False,True
+Sort incoming mail,Low,1,False,True,False
+Submit tax documents,High,3,True,False,False
+Update contact list,Medium,2,False,False,True
+Organize supply closet,Low,1,False,True,False
+Finalize project deliverables,High,3,True,False,False
+Schedule maintenance check,Medium,2,False,False,True
+Clean printer area,Low,1,False,True,False
+Prepare annual report,High,3,True,False,False
+Update employee handbook,Medium,2,False,False,True
+Organize break room,Low,1,False,True,False
+Review security protocols,High,3,True,False,False
+Schedule team building,Medium,2,False,False,True
+Update office layout,Low,1,False,True,False
+Prepare financial statements,High,3,True,False,False
+Review marketing materials,Medium,2,False,False,True
+Clean conference room,Low,1,False,True,False
+Update emergency procedures,High,3,True,False,False
+Schedule vendor meetings,Medium,2,False,False,True
+Organize storage room,Low,1,False,True,False
+Complete compliance training,High,3,True,False,False
+Update website content,Medium,2,False,False,True
+Sort office supplies,Low,1,False,True,False
+Prepare board presentation,High,3,True,False,False
+Schedule interviews,Medium,2,False,False,True
+Clean kitchen area,Low,1,False,True,False
+Review risk assessment,High,3,True,False,False
+Update social media,Medium,2,False,False,True
+Organize file cabinet,Low,1,False,True,False
+Submit grant proposal,High,3,True,False,False
+Schedule software updates,Medium,2,False,False,True
+Clean reception area,Low,1,False,True,False
+Prepare sales forecast,High,3,True,False,False
+Update inventory list,Medium,2,False,False,True
+Organize server room,Low,1,False,True,False
+Complete audit requirements,High,3,True,False,False
+Schedule equipment maintenance,Medium,2,False,False,True
+Clean bathroom facilities,Low,1,False,True,False
+Review business strategy,High,3,True,False,False
+Update employee records,Medium,2,False,False,True
+Organize supply inventory,Low,1,False,True,False
+Prepare market analysis,High,3,True,False,False
+Schedule training sessions,Medium,2,False,False,True
+Clean windows,Low,1,False,True,False
+Submit insurance forms,High,3,True,False,False
+Update process documentation,Medium,2,False,False,True
+Organize storage closet,Low,1,False,True,False
+Review budget allocation,High,3,True,False,False
+Schedule department meetings,Medium,2,False,False,True
+Clean parking area,Low,1,False,True,False
+Prepare investor presentation,High,3,True,False,False
+Update project status,Medium,2,False,False,True
+Organize office layout,Low,1,False,True,False
+Complete safety inspection,High,3,True,False,False
+Schedule client meetings,Medium,2,False,False,True
+Clean outdoor space,Low,1,False,True,False
+Review employee feedback,High,3,True,False,False
+Update task assignments,Medium,2,False,False,True
+Organize meeting materials,Low,1,False,True,False
+Prepare quarterly forecast,High,3,True,False,False
+Schedule system maintenance,Medium,2,False,False,True
+Clean break room,Low,1,False,True,False
+Review vendor contracts,High,3,True,False,False
+Update team roster,Medium,2,False,False,True
+Organize office supplies,Low,1,False,True,False
+Submit project proposal,High,3,True,False,False
+Schedule performance reviews,Medium,2,False,False,True
+Clean workspace area,Low,1,False,True,False
+Review marketing strategy,High,3,True,False,False
+Update calendar events,Medium,2,False,False,True
+Organize storage area,Low,1,False,True,False
+Prepare department budget,High,3,True,False,False
+Schedule team meetings,Medium,2,False,False,True
+Clean office equipment,Low,1,False,True,False
+Review project timeline,High,3,True,False,False
+Update contact information,Medium,2,False,False,True
+Organize digital assets,Low,1,False,True,False
+Submit expense report,High,3,True,False,False
+Schedule client presentations,Medium,2,False,False,True
+Clean storage room,Low,1,False,True,False
+Review sales pipeline,High,3,True,False,False
+Update team objectives,Medium,2,False,False,True
+Organize workshop materials,Low,1,False,True,False
+Prepare monthly report,High,3,True,False,False
+Schedule vendor reviews,Medium,2,False,False,True
+Clean meeting rooms,Low,1,False,True,False
+Review compliance requirements,High,3,True,False,False
+Update project scope,Medium,2,False,False,True
+Organize reference materials,Low,1,False,True,False
+Submit tax returns,High,3,True,False,False
+Schedule team training,Medium,2,False,False,True
+Clean office windows,Low,1,False,True,False
+Review business plans,High,3,True,False,False
+Update resource allocation,Medium,2,False,False,True
+Organize client files,Low,1,False,True,False
+Prepare weekly summary,High,3,True,False,False
+Schedule equipment checks,Medium,2,False,False,True
+Clean warehouse area,Low,1,False,True,False
+Review inventory levels,High,3,True,False,False
+Update team schedule,Medium,2,False,False,True
+Organize training materials,Low,1,False,True,False
+Submit progress report,High,3,True,False,False
+Schedule safety training,Medium,2,False,False,True
+Clean office kitchen,Low,1,False,True,False
+Review quality metrics,High,3,True,False,False
+Update project goals,Medium,2,False,False,True
+Organize employee records,Low,1,False,True,False
+Prepare financial review,High,3,True,False,False
+Schedule budget meetings,Medium,2,False,False,True
+Clean reception desk,Low,1,False,True,False
+Review team performance,High,3,True,False,False
+Update system access,Medium,2,False,False,True
+Organize project files,Low,1,False,True,False
+Submit budget request,High,3,True,False,False
+Schedule client follow-ups,Medium,2,False,False,True
+Clean office floors,Low,1,False,True,False
+Review market trends,High,3,True,False,False
+Update team policies,Medium,2,False,False,True
+Organize supply room,Low,1,False,True,False
+Prepare status report,High,3,True,False,False
+Schedule team reviews,Medium,2,False,False,True
+Clean work stations,Low,1,False,True,False
+Review client feedback,High,3,True,False,False
+Update project metrics,Medium,2,False,False,True
+Organize archive files,Low,1,False,True,False
+Submit compliance report,High,3,True,False,False
+Schedule maintenance work,Medium,2,False,False,True
+Clean office lobby,Low,1,False,True,False
+Review operational costs,High,3,True,False,False
+Update work schedules,Medium,2,False,False,True
+Organize equipment room,Low,1,False,True,False
+Prepare project summary,High,3,True,False,False
+Schedule team workshops,Medium,2,False,False,True
+Clean copy room,Low,1,False,True,False
+Review safety procedures,High,3,True,False,False
+Update resource tracking,Medium,2,False,False,True
+Organize meeting schedule,Low,1,False,True,False
+Submit annual review,High,3,True,False,False
+Schedule system updates,Medium,2,False,False,True
+Clean storage units,Low,1,False,True,False
+Review project risks,High,3,True,False,False
+Update team assignments,Medium,2,False,False,True
+Organize vendor files,Low,1,False,True,False
+Prepare audit response,High,3,True,False,False
+Schedule training sessions,Medium,2,False,False,True
+Clean common areas,Low,1,False,True,False
+Review budget status,High,3,True,False,False
+Update project plans,Medium,2,False,False,True
+Organize team documents,Low,1,False,True,False
+Submit monthly report,High,3,True,False,False
+Schedule department updates,Medium,2,False,False,True
+Clean office entrance,Low,1,False,True,False
+Review team goals,High,3,True,False,False
+Update task tracking,Medium,2,False,False,True
+Organize supply inventory,Low,1,False,True,False
+Prepare team assessment,High,3,True,False,False
+Schedule client meetings,Medium,2,False,False,True
+Clean meeting spaces,Low,1,False,True,False
+Review process efficiency,High,3,True,False,False
+Update workflow documentation,Medium,2,False,False,True
+Organize resource library,Low,1,False,True,False
+Submit weekly report,High,3,True,False,False
+Schedule team calls,Medium,2,False,False,True
+Clean staff room,Low,1,False,True,False
+Review project status,High,3,True,False,False
+Update resource planning,Medium,2,False,False,True
+Organize client meetings,Low,1,False,True,False
+Prepare performance summary,High,3,True,False,False
+Schedule vendor visits,Medium,2,False,False,True
+Clean office furniture,Low,1,False,True,False
+Review team structure,High,3,True,False,False
+Update project documentation,Medium,2,False,False,True
+Organize work materials,Low,1,False,True,False
+Submit status update,High,3,True,False,False
+Schedule resource planning,Medium,2,False,False,True
+Clean office decor,Low,1,False,True,False
+Review work processes,High,3,True,False,False
+Update team guidelines,Medium,2,False,False,True
+Organize office equipment,Low,1,False,True,False
+Prepare risk assessment,High,3,True,False,False
+Schedule progress reviews,Medium,2,False,False,True
+Clean work environment,Low,1,False,True,False
+Review resource allocation,High,3,True,False,False
+Update meeting schedule,Medium,2,False,False,True
+Organize team resources,Low,1,False,True,False
+Submit project update,High,3,True,False,False
+Schedule team planning,Medium,2,False,False,True
+Clean office supplies,Low,1,False,True,False
+Review team progress,High,3,True,False,False
+Update resource tracking,Medium,2,False,False,True
+Organize work schedule,Low,1,False,True,False
+Prepare team report,High,3,True,False,False
+Schedule client feedback,Medium,2,False,False,True
+Clean storage space,Low,1,False,True,False
+Review workflow efficiency,High,3,True,False,False
+Call Ashok about weekend plans,Medium,2,False,False,True
+Meet Ram for coffee,High,3,True,False,False
+Pick up salad for dinner,Low,1,False,True,False
+Text Priya about birthday party,Medium,2,False,False,True
+Buy groceries from local market,High,3,True,False,False
+Return Rahul's book,Low,1,False,True,False
+Schedule dentist appointment,High,3,True,False,False
+Pay electricity bill,High,3,True,False,False
+Buy birthday gift for Mom,High,3,True,False,False
+Call plumber for leaky tap,Medium,2,False,False,True
+Pick up dry cleaning,Low,1,False,True,False
+Meet Sneha for project discussion,High,3,True,False,False
+Buy vegetables from farmer's market,Medium,2,False,False,True
+Call Aunt about family gathering,Medium,2,False,False,True
+Get car serviced,High,3,True,False,False
+Buy medicine from pharmacy,High,3,True,False,False
+Meet Raj for lunch,Medium,2,False,False,True
+Return library books,Low,1,False,True,False
+Call internet provider,Medium,2,False,False,True
+Buy milk and bread,High,3,True,False,False
+Schedule haircut appointment,Low,1,False,True,False
+Meet Sonia for coffee,Medium,2,False,False,True
+Buy phone charger,Medium,2,False,False,True
+Call Deepak about movie plans,Low,1,False,True,False
+Pick up package from post office,Medium,2,False,False,True
+Buy birthday card for sister,Low,1,False,True,False
+Meet Amit at gym,Medium,2,False,False,True
+Call restaurant for reservation,High,3,True,False,False
+Buy fruits from market,Medium,2,False,False,True
+Schedule yoga class,Low,1,False,True,False
+Meet Neha for study group,High,3,True,False,False
+Buy dog food,High,3,True,False,False
+Call Vikram about car pool,Medium,2,False,False,True
+Pick up prescription,High,3,True,False,False
+Buy notebook and pens,Low,1,False,True,False
+Meet Preeti for tea,Medium,2,False,False,True
+Call cable company,Low,1,False,True,False
+Buy groceries for week,High,3,True,False,False
+Schedule eye check-up,Medium,2,False,False,True
+Meet Suresh for business meeting,High,3,True,False,False
+Buy printer paper,Low,1,False,True,False
+Call Meera about house party,Medium,2,False,False,True
+Pick up laundry,Low,1,False,True,False
+Buy birthday present for dad,High,3,True,False,False
+Meet Anita for breakfast,Medium,2,False,False,True
+Call bank about credit card,High,3,True,False,False
+Buy bathroom supplies,Medium,2,False,False,True
+Schedule dentist cleaning,Medium,2,False,False,True
+Meet Rohit for dinner,High,3,True,False,False
+Buy cat food,High,3,True,False,False
+Call Arun about weekend trip,Medium,2,False,False,True
+Pick up shoes from repair,Low,1,False,True,False
+Buy kitchen supplies,Medium,2,False,False,True
+Meet Pooja for coffee,Low,1,False,True,False
+Call insurance company,High,3,True,False,False
+Buy office supplies,Medium,2,False,False,True
+Schedule car wash,Low,1,False,True,False
+Meet Kiran for project review,High,3,True,False,False
+Buy household items,Medium,2,False,False,True
+Call Nisha about dance class,Low,1,False,True,False
+Pick up birthday cake,High,3,True,False,False
+Buy garden supplies,Low,1,False,True,False
+Meet Sanjay for tennis,Medium,2,False,False,True
+Call doctor for appointment,High,3,True,False,False
+Buy pet supplies,Medium,2,False,False,True
+Schedule home cleaning,Low,1,False,True,False
+Meet Anjali for shopping,Medium,2,False,False,True
+Buy toilet paper,High,3,True,False,False
+Call Mohan about job reference,High,3,True,False,False
+Pick up groceries,High,3,True,False,False
+Buy school supplies,Medium,2,False,False,True
+Meet Ravi for gym,Low,1,False,True,False
+Call electrician,High,3,True,False,False
+Buy cleaning supplies,Medium,2,False,False,True
+Schedule bike repair,Low,1,False,True,False
+Meet Pradeep for lunch,Medium,2,False,False,True
+Buy laundry detergent,High,3,True,False,False
+Call Sarita about tutoring,Medium,2,False,False,True
+Pick up medicine,High,3,True,False,False
+Buy party supplies,Medium,2,False,False,True
+Meet Gaurav for coffee,Low,1,False,True,False
+Call travel agent,Medium,2,False,False,True
+Buy gift wrapping paper,Low,1,False,True,False
+Schedule laptop repair,High,3,True,False,False
+Meet Divya for project,High,3,True,False,False
+Buy breakfast items,Medium,2,False,False,True
+Call Rajesh about party,Low,1,False,True,False
+Pick up watch from repair,Low,1,False,True,False
+Buy snacks for meeting,Medium,2,False,False,True
+Meet Shweta for dinner,High,3,True,False,False
+Call internet company,Medium,2,False,False,True
+Buy stationery items,Low,1,False,True,False
+Schedule phone repair,High,3,True,False,False
+Meet Arjun for basketball,Medium,2,False,False,True
+Buy lunch items,High,3,True,False,False
+Call Sagar about project,High,3,True,False,False
+Pick up dinner,Medium,2,False,False,True
+Buy bathroom cleaners,Low,1,False,True,False
+Meet Kavita for coffee,Medium,2,False,False,True
+Call gym about membership,Low,1,False,True,False
+Buy water bottles,High,3,True,False,False
+Schedule AC maintenance,Medium,2,False,False,True
+Meet Ajay for study,High,3,True,False,False
+Buy dish soap,Medium,2,False,False,True
+Call Manoj about carpooling,Low,1,False,True,False
+Pick up parcels,Medium,2,False,False,True
+Buy hand soap,Low,1,False,True,False
+Meet Sunita for yoga,Medium,2,False,False,True
+Call Vivek about meeting,High,3,True,False,False
+Buy kitchen towels,Low,1,False,True,False
+Coordinate remote team workshop,High,3,True,False,False
+Set up VPN access for new employees,Medium,2,False,False,True
+Order ergonomic office chairs,Low,1,False,True,False
+Review cloud storage security protocols,High,3,True,False,False
+Configure new project management software,Medium,2,False,False,True
+Book flight tickets for conference,High,3,True,False,False
+Update employee vaccination records,Medium,2,False,False,True
+Install new video conferencing system,High,3,True,False,False
+Renew software licenses for design team,Medium,2,False,False,True
+Schedule quarterly fire drill,High,3,True,False,False
+Get quotes for office renovation,Medium,2,False,False,True
+Update emergency contact list,High,3,True,False,False
+Arrange team building retreat,Medium,2,False,False,True
+Review cyber insurance policy,High,3,True,False,False
+Set up new employee laptops,Medium,2,False,False,True
+Create digital onboarding guide,High,3,True,False,False
+Order new office printer,Medium,2,False,False,True
+Update website SSL certificate,High,3,True,False,False
+Schedule IT security training,Medium,2,False,False,True
+Review remote work policy,High,3,True,False,False
+Organize virtual holiday party,Low,1,False,True,False
+Update employee benefits portal,High,3,True,False,False
+Schedule server maintenance,High,3,True,False,False
+Create social media content calendar,Medium,2,False,False,True
+Review cloud storage usage,Low,1,False,True,False
+Update company LinkedIn profile,Medium,2,False,False,True
+Schedule annual health checkups,High,3,True,False,False
+Review data backup procedures,High,3,True,False,False
+Order office snack supplies,Low,1,False,True,False
+Update employee handbook PDF,Medium,2,False,False,True
+Schedule pest control service,Medium,2,False,False,True
+Review network security logs,High,3,True,False,False
+Order new business cards,Low,1,False,True,False
+Update parking permit system,Medium,2,False,False,True
+Schedule annual AC maintenance,Medium,2,False,False,True
+Review building lease agreement,High,3,True,False,False
+Update office floor plans,Low,1,False,True,False
+Schedule first aid training,High,3,True,False,False
+Review internet service contract,Medium,2,False,False,True
+Order new office chairs,Low,1,False,True,False
+Update visitor management system,Medium,2,False,False,True
+Schedule electrical safety audit,High,3,True,False,False
+Review cleaning service contract,Medium,2,False,False,True
+Order office plants,Low,1,False,True,False
+Update company phone directory,Medium,2,False,False,True
+Schedule fire extinguisher check,High,3,True,False,False
+Review office insurance policy,High,3,True,False,False
+Order new desk lamps,Low,1,False,True,False
+Update office access codes,High,3,True,False,False
+Schedule carpet cleaning,Low,1,False,True,False
+Review security camera system,High,3,True,False,False
+Order new keyboards,Low,1,False,True,False
+Update emergency exit signs,High,3,True,False,False
+Schedule plumbing inspection,Medium,2,False,False,True
+Review parking lot contract,Medium,2,False,False,True
+Order new monitors,Medium,2,False,False,True
+Update office signage,Low,1,False,True,False
+Schedule elevator maintenance,High,3,True,False,False
+Review waste management contract,Medium,2,False,False,True
+Order new mouse pads,Low,1,False,True,False
+Update building access cards,High,3,True,False,False
+Schedule window cleaning,Low,1,False,True,False
+Review office lighting system,Medium,2,False,False,True
+Order new headphones,Medium,2,False,False,True
+Update parking permits,Medium,2,False,False,True
+Schedule HVAC maintenance,High,3,True,False,False
+Review office furniture inventory,Medium,2,False,False,True
+Order new webcams,Medium,2,False,False,True
+Update office map,Low,1,False,True,False
+Schedule roof inspection,High,3,True,False,False
+Review office supplies vendor,Medium,2,False,False,True
+Order new USB hubs,Low,1,False,True,False
+Update conference room schedule,Medium,2,False,False,True
+Schedule security audit,High,3,True,False,False
+Review office phone system,Medium,2,False,False,True
+Order new surge protectors,Low,1,False,True,False
+Update office inventory list,Medium,2,False,False,True
+Schedule generator maintenance,High,3,True,False,False
+Review office layout plan,Medium,2,False,False,True
+Order new laptop stands,Low,1,False,True,False
+Update employee directory photos,Medium,2,False,False,True
+Schedule air quality test,High,3,True,False,False
+Review printer maintenance contract,Medium,2,False,False,True
+Order new cable organizers,Low,1,False,True,False
+Update office seating chart,Medium,2,False,False,True
+Schedule water testing,High,3,True,False,False
+Review office coffee service,Low,1,False,True,False
+Order new desk organizers,Low,1,False,True,False
+Update visitor badges,Medium,2,False,False,True
+Schedule pest inspection,Medium,2,False,False,True
+Review office water service,Medium,2,False,False,True
+Order new document holders,Low,1,False,True,False
+Update emergency procedures,High,3,True,False,False
+Schedule alarm system test,High,3,True,False,False
+Review office snack service,Low,1,False,True,False
+Order new monitor stands,Low,1,False,True,False
+Update office WiFi password,High,3,True,False,False
+Schedule lighting inspection,Medium,2,False,False,True
+Review office cleaning supplies,Medium,2,False,False,True
+Order new keyboard wrist rests,Low,1,False,True,False
+Update office phone list,Medium,2,False,False,True
+Schedule fire alarm test,High,3,True,False,False
+Review office security system,High,3,True,False,False
+Order new mouse pads,Low,1,False,True,False
+Update office evacuation plan,High,3,True,False,False
+Schedule door maintenance,Medium,2,False,False,True
+Review office first aid kits,High,3,True,False,False
+Order new desk calendars,Low,1,False,True,False
+Update office contact list,Medium,2,False,False,True
+Schedule safety inspection,High,3,True,False,False
+Review office recycling program,Medium,2,False,False,True
+Order new file folders,Low,1,False,True,False
+Update office directory,Medium,2,False,False,True
+Schedule lock maintenance,High,3,True,False,False
+Review office kitchen supplies,Medium,2,False,False,True
+Order new staplers,Low,1,False,True,False
+Update office hours sign,Low,1,False,True,False
+Schedule ventilation check,High,3,True,False,False
+Review office parking policy,Medium,2,False,False,True
+Order new paper clips,Low,1,False,True,False
+Update office rules poster,Medium,2,False,False,True
+Schedule carpet inspection,Medium,2,False,False,True
+Review office equipment list,Medium,2,False,False,True
+Order new rubber bands,Low,1,False,True,False
+Update office calendar,Medium,2,False,False,True
+Schedule window inspection,Medium,2,False,False,True
+Review office supply budget,High,3,True,False,False
+Order new pencils,Low,1,False,True,False
+Update office schedule,Medium,2,False,False,True
+Schedule paint touch-ups,Low,1,False,True,False
+Review office maintenance log,Medium,2,False,False,True
+Order new pens,Low,1,False,True,False
+Update office bulletin board,Low,1,False,True,False
+Schedule floor waxing,Medium,2,False,False,True
+Review office storage space,Medium,2,False,False,True
+Order new highlighters,Low,1,False,True,False
+Update office signage,Medium,2,False,False,True
+Schedule wall repairs,Medium,2,False,False,True
+Review office furniture layout,Medium,2,False,False,True
+Order new markers,Low,1,False,True,False
+Update office door signs,Low,1,False,True,False
+Schedule ceiling inspection,Medium,2,False,False,True
+Review office equipment maintenance,High,3,True,False,False
+Order new erasers,Low,1,False,True,False
+Update office notice board,Low,1,False,True,False
+Schedule bathroom renovation,High,3,True,False,False
+Review office decoration policy,Low,1,False,True,False
+Order new printer paper,Medium,2,False,False,True
+Update office equipment log,Medium,2,False,False,True
+Schedule furniture cleaning,Medium,2,False,False,True
+Review office supply inventory,Medium,2,False,False,True
+Order new notebooks,Low,1,False,True,False
+Update office phone system,High,3,True,False,False
+Schedule door painting,Low,1,False,True,False
+Review office waste policy,Medium,2,False,False,True
+Order new folders,Low,1,False,True,False
+Update office supply list,Medium,2,False,False,True
+Schedule lock replacement,High,3,True,False,False
+Submit quarterly report,High,3,True,False,False
+Update client database,Medium,2,False,False,True
+Restock office supplies,Low,1,False,True,False
+Prepare presentation slides,High,3,True,False,False
+Schedule team meeting,Medium,2,False,False,True
+Review project proposals,High,3,True,False,False
+Back up computer files,Medium,2,False,False,True
+Clean workspace,Low,1,False,True,False
+Submit expense reports,High,3,True,False,False
+Update software licenses,Medium,2,False,False,True
+Send follow-up emails,Low,1,False,True,False
+Prepare budget forecast,High,3,True,False,False
+Organize digital files,Medium,2,False,False,True
+Water office plants,Low,1,False,True,False
+Complete performance reviews,High,3,True,False,False
+Update project timeline,Medium,2,False,False,True
+Order business cards,Low,1,False,True,False
+Review contract terms,High,3,True,False,False
+Schedule client calls,Medium,2,False,False,True
+Archive old documents,Low,1,False,True,False
+Prepare training materials,High,3,True,False,False
+Update team calendar,Medium,2,False,False,True
+Sort incoming mail,Low,1,False,True,False
+Submit tax documents,High,3,True,False,False
+Update contact list,Medium,2,False,False,True
+Organize supply closet,Low,1,False,True,False
+Finalize project deliverables,High,3,True,False,False
+Schedule maintenance check,Medium,2,False,False,True
+Clean printer area,Low,1,False,True,False
+Prepare annual report,High,3,True,False,False
+Update employee handbook,Medium,2,False,False,True
+Organize break room,Low,1,False,True,False
+Review security protocols,High,3,True,False,False
+Schedule team building,Medium,2,False,False,True
+Update office layout,Low,1,False,True,False
+Prepare financial statements,High,3,True,False,False
+Review marketing materials,Medium,2,False,False,True
+Clean conference room,Low,1,False,True,False
+Update emergency procedures,High,3,True,False,False
+Schedule vendor meetings,Medium,2,False,False,True
+Organize storage room,Low,1,False,True,False
+Complete compliance training,High,3,True,False,False
+Update website content,Medium,2,False,False,True
+Sort office supplies,Low,1,False,True,False
+Prepare board presentation,High,3,True,False,False
+Schedule interviews,Medium,2,False,False,True
+Clean kitchen area,Low,1,False,True,False
+Review risk assessment,High,3,True,False,False
+Update social media,Medium,2,False,False,True
+Organize file cabinet,Low,1,False,True,False
+Submit grant proposal,High,3,True,False,False
+Schedule software updates,Medium,2,False,False,True
+Clean reception area,Low,1,False,True,False
+Prepare sales forecast,High,3,True,False,False
+Update inventory list,Medium,2,False,False,True
+Organize server room,Low,1,False,True,False
+Complete audit requirements,High,3,True,False,False
+Schedule equipment maintenance,Medium,2,False,False,True
+Clean bathroom facilities,Low,1,False,True,False
+Review business strategy,High,3,True,False,False
+Update employee records,Medium,2,False,False,True
+Organize supply inventory,Low,1,False,True,False
+Prepare market analysis,High,3,True,False,False
+Schedule training sessions,Medium,2,False,False,True
+Clean windows,Low,1,False,True,False
+Submit insurance forms,High,3,True,False,False
+Update process documentation,Medium,2,False,False,True
+Organize storage closet,Low,1,False,True,False
+Review budget allocation,High,3,True,False,False
+Schedule department meetings,Medium,2,False,False,True
+Clean parking area,Low,1,False,True,False
+Prepare investor presentation,High,3,True,False,False
+Update project status,Medium,2,False,False,True
+Organize office layout,Low,1,False,True,False
+Complete safety inspection,High,3,True,False,False
+Schedule client meetings,Medium,2,False,False,True
+Clean outdoor space,Low,1,False,True,False
+Research industry trends,High,3,True,False,False
+Analyze competitor strategies,Medium,2,False,False,True
+Optimize digital marketing campaigns,High,3,True,False,False
+Develop customer outreach plan,Medium,2,False,False,True
+Plan content calendar,High,3,True,False,False
+Revise operational workflows,Medium,2,False,False,True
+Test new software tools,Medium,2,False,False,True

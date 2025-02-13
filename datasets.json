@@ -1,0 +1,2274 @@
+[
+    {
+        "task": "Submit quarterly report",
+        "priority": "High"
+    },
+    {
+        "task": "Update client database",
+        "priority": "Medium"
+    },
+    {
+        "task": "Restock office supplies",
+        "priority": "Low"
+    },
+    {
+        "task": "Prepare presentation slides",
+        "priority": "High"
+    },
+    {
+        "task": "Schedule team meeting",
+        "priority": "Medium"
+    },
+    {
+        "task": "Review project proposals",
+        "priority": "High"
+    },
+    {
+        "task": "Back up computer files",
+        "priority": "Medium"
+    },
+    {
+        "task": "Clean workspace",
+        "priority": "Low"
+    },
+    {
+        "task": "Submit expense reports",
+        "priority": "High"
+    },
+    {
+        "task": "Update software licenses",
+        "priority": "Medium"
+    },
+    {
+        "task": "Send follow-up emails",
+        "priority": "Low"
+    },
+    {
+        "task": "Prepare budget forecast",
+        "priority": "High"
+    },
+    {
+        "task": "Organize digital files",
+        "priority": "Medium"
+    },
+    {
+        "task": "Water office plants",
+        "priority": "Low"
+    },
+    {
+        "task": "Complete performance reviews",
+        "priority": "High"
+    },
+    {
+        "task": "Update project timeline",
+        "priority": "Medium"
+    },
+    {
+        "task": "Order business cards",
+        "priority": "Low"
+    },
+    {
+        "task": "Review contract terms",
+        "priority": "High"
+    },
+    {
+        "task": "Schedule client calls",
+        "priority": "Medium"
+    },
+    {
+        "task": "Archive old documents",
+        "priority": "Low"
+    },
+    {
+        "task": "Prepare training materials",
+        "priority": "High"
+    },
+    {
+        "task": "Update team calendar",
+        "priority": "Medium"
+    },
+    {
+        "task": "Sort incoming mail",
+        "priority": "Low"
+    },
+    {
+        "task": "Submit tax documents",
+        "priority": "High"
+    },
+    {
+        "task": "Update contact list",
+        "priority": "Medium"
+    },
+    {
+        "task": "Organize supply closet",
+        "priority": "Low"
+    },
+    {
+        "task": "Finalize project deliverables",
+        "priority": "High"
+    },
+    {
+        "task": "Schedule maintenance check",
+        "priority": "Medium"
+    },
+    {
+        "task": "Clean printer area",
+        "priority": "Low"
+    },
+    {
+        "task": "Prepare annual report",
+        "priority": "High"
+    },
+    {
+        "task": "Update employee handbook",
+        "priority": "Medium"
+    },
+    {
+        "task": "Organize break room",
+        "priority": "Low"
+    },
+    {
+        "task": "Review security protocols",
+        "priority": "High"
+    },
+    {
+        "task": "Schedule team building",
+        "priority": "Medium"
+    },
+    {
+        "task": "Update office layout",
+        "priority": "Low"
+    },
+    {
+        "task": "Prepare financial statements",
+        "priority": "High"
+    },
+    {
+        "task": "Review marketing materials",
+        "priority": "Medium"
+    },
+    {
+        "task": "Clean conference room",
+        "priority": "Low"
+    },
+    {
+        "task": "Update emergency procedures",
+        "priority": "High"
+    },
+    {
+        "task": "Schedule vendor meetings",
+        "priority": "Medium"
+    },
+    {
+        "task": "Organize storage room",
+        "priority": "Low"
+    },
+    {
+        "task": "Complete compliance training",
+        "priority": "High"
+    },
+    {
+        "task": "Update website content",
+        "priority": "Medium"
+    },
+    {
+        "task": "Sort office supplies",
+        "priority": "Low"
+    },
+    {
+        "task": "Prepare board presentation",
+        "priority": "High"
+    },
+    {
+        "task": "Schedule interviews",
+        "priority": "Medium"
+    },
+    {
+        "task": "Clean kitchen area",
+        "priority": "Low"
+    },
+    {
+        "task": "Review risk assessment",
+        "priority": "High"
+    },
+    {
+        "task": "Update social media",
+        "priority": "Medium"
+    },
+    {
+        "task": "Organize file cabinet",
+        "priority": "Low"
+    },
+    {
+        "task": "Submit grant proposal",
+        "priority": "High"
+    },
+    {
+        "task": "Schedule software updates",
+        "priority": "Medium"
+    },
+    {
+        "task": "Clean reception area",
+        "priority": "Low"
+    },
+    {
+        "task": "Prepare sales forecast",
+        "priority": "High"
+    },
+    {
+        "task": "Update inventory list",
+        "priority": "Medium"
+    },
+    {
+        "task": "Organize server room",
+        "priority": "Low"
+    },
+    {
+        "task": "Complete audit requirements",
+        "priority": "High"
+    },
+    {
+        "task": "Schedule equipment maintenance",
+        "priority": "Medium"
+    },
+    {
+        "task": "Clean bathroom facilities",
+        "priority": "Low"
+    },
+    {
+        "task": "Review business strategy",
+        "priority": "High"
+    },
+    {
+        "task": "Update employee records",
+        "priority": "Medium"
+    },
+    {
+        "task": "Organize supply inventory",
+        "priority": "Low"
+    },
+    {
+        "task": "Prepare market analysis",
+        "priority": "High"
+    },
+    {
+        "task": "Schedule training sessions",
+        "priority": "Medium"
+    },
+    {
+        "task": "Clean windows",
+        "priority": "Low"
+    },
+    {
+        "task": "Submit insurance forms",
+        "priority": "High"
+    },
+    {
+        "task": "Update process documentation",
+        "priority": "Medium"
+    },
+    {
+        "task": "Organize storage closet",
+        "priority": "Low"
+    },
+    {
+        "task": "Review budget allocation",
+        "priority": "High"
+    },
+    {
+        "task": "Schedule department meetings",
+        "priority": "Medium"
+    },
+    {
+        "task": "Clean parking area",
+        "priority": "Low"
+    },
+    {
+        "task": "Prepare investor presentation",
+        "priority": "High"
+    },
+    {
+        "task": "Update project status",
+        "priority": "Medium"
+    },
+    {
+        "task": "Organize office layout",
+        "priority": "Low"
+    },
+    {
+        "task": "Complete safety inspection",
+        "priority": "High"
+    },
+    {
+        "task": "Schedule client meetings",
+        "priority": "Medium"
+    },
+    {
+        "task": "Clean outdoor space",
+        "priority": "Low"
+    },
+    {
+        "task": "Review employee feedback",
+        "priority": "High"
+    },
+    {
+        "task": "Update task assignments",
+        "priority": "Medium"
+    },
+    {
+        "task": "Organize meeting materials",
+        "priority": "Low"
+    },
+    {
+        "task": "Prepare quarterly forecast",
+        "priority": "High"
+    },
+    {
+        "task": "Schedule system maintenance",
+        "priority": "Medium"
+    },
+    {
+        "task": "Clean break room",
+        "priority": "Low"
+    },
+    {
+        "task": "Review vendor contracts",
+        "priority": "High"
+    },
+    {
+        "task": "Update team roster",
+        "priority": "Medium"
+    },
+    {
+        "task": "Organize office supplies",
+        "priority": "Low"
+    },
+    {
+        "task": "Submit project proposal",
+        "priority": "High"
+    },
+    {
+        "task": "Schedule performance reviews",
+        "priority": "Medium"
+    },
+    {
+        "task": "Clean workspace area",
+        "priority": "Low"
+    },
+    {
+        "task": "Review marketing strategy",
+        "priority": "High"
+    },
+    {
+        "task": "Update calendar events",
+        "priority": "Medium"
+    },
+    {
+        "task": "Organize storage area",
+        "priority": "Low"
+    },
+    {
+        "task": "Prepare department budget",
+        "priority": "High"
+    },
+    {
+        "task": "Schedule team meetings",
+        "priority": "Medium"
+    },
+    {
+        "task": "Clean office equipment",
+        "priority": "Low"
+    },
+    {
+        "task": "Review project timeline",
+        "priority": "High"
+    },
+    {
+        "task": "Update contact information",
+        "priority": "Medium"
+    },
+    {
+        "task": "Organize digital assets",
+        "priority": "Low"
+    },
+    {
+        "task": "Submit expense report",
+        "priority": "High"
+    },
+    {
+        "task": "Schedule client presentations",
+        "priority": "Medium"
+    },
+    {
+        "task": "Clean storage room",
+        "priority": "Low"
+    },
+    {
+        "task": "Review sales pipeline",
+        "priority": "High"
+    },
+    {
+        "task": "Update team objectives",
+        "priority": "Medium"
+    },
+    {
+        "task": "Organize workshop materials",
+        "priority": "Low"
+    },
+    {
+        "task": "Prepare monthly report",
+        "priority": "High"
+    },
+    {
+        "task": "Schedule vendor reviews",
+        "priority": "Medium"
+    },
+    {
+        "task": "Clean meeting rooms",
+        "priority": "Low"
+    },
+    {
+        "task": "Review compliance requirements",
+        "priority": "High"
+    },
+    {
+        "task": "Update project scope",
+        "priority": "Medium"
+    },
+    {
+        "task": "Organize reference materials",
+        "priority": "Low"
+    },
+    {
+        "task": "Submit tax returns",
+        "priority": "High"
+    },
+    {
+        "task": "Schedule team training",
+        "priority": "Medium"
+    },
+    {
+        "task": "Clean office windows",
+        "priority": "Low"
+    },
+    {
+        "task": "Review business plans",
+        "priority": "High"
+    },
+    {
+        "task": "Update resource allocation",
+        "priority": "Medium"
+    },
+    {
+        "task": "Organize client files",
+        "priority": "Low"
+    },
+    {
+        "task": "Prepare weekly summary",
+        "priority": "High"
+    },
+    {
+        "task": "Schedule equipment checks",
+        "priority": "Medium"
+    },
+    {
+        "task": "Clean warehouse area",
+        "priority": "Low"
+    },
+    {
+        "task": "Review inventory levels",
+        "priority": "High"
+    },
+    {
+        "task": "Update team schedule",
+        "priority": "Medium"
+    },
+    {
+        "task": "Organize training materials",
+        "priority": "Low"
+    },
+    {
+        "task": "Submit progress report",
+        "priority": "High"
+    },
+    {
+        "task": "Schedule safety training",
+        "priority": "Medium"
+    },
+    {
+        "task": "Clean office kitchen",
+        "priority": "Low"
+    },
+    {
+        "task": "Review quality metrics",
+        "priority": "High"
+    },
+    {
+        "task": "Update project goals",
+        "priority": "Medium"
+    },
+    {
+        "task": "Organize employee records",
+        "priority": "Low"
+    },
+    {
+        "task": "Prepare financial review",
+        "priority": "High"
+    },
+    {
+        "task": "Schedule budget meetings",
+        "priority": "Medium"
+    },
+    {
+        "task": "Clean reception desk",
+        "priority": "Low"
+    },
+    {
+        "task": "Review team performance",
+        "priority": "High"
+    },
+    {
+        "task": "Update system access",
+        "priority": "Medium"
+    },
+    {
+        "task": "Organize project files",
+        "priority": "Low"
+    },
+    {
+        "task": "Submit budget request",
+        "priority": "High"
+    },
+    {
+        "task": "Schedule client follow-ups",
+        "priority": "Medium"
+    },
+    {
+        "task": "Clean office floors",
+        "priority": "Low"
+    },
+    {
+        "task": "Review market trends",
+        "priority": "High"
+    },
+    {
+        "task": "Update team policies",
+        "priority": "Medium"
+    },
+    {
+        "task": "Organize supply room",
+        "priority": "Low"
+    },
+    {
+        "task": "Prepare status report",
+        "priority": "High"
+    },
+    {
+        "task": "Schedule team reviews",
+        "priority": "Medium"
+    },
+    {
+        "task": "Clean work stations",
+        "priority": "Low"
+    },
+    {
+        "task": "Review client feedback",
+        "priority": "High"
+    },
+    {
+        "task": "Update project metrics",
+        "priority": "Medium"
+    },
+    {
+        "task": "Organize archive files",
+        "priority": "Low"
+    },
+    {
+        "task": "Submit compliance report",
+        "priority": "High"
+    },
+    {
+        "task": "Schedule maintenance work",
+        "priority": "Medium"
+    },
+    {
+        "task": "Clean office lobby",
+        "priority": "Low"
+    },
+    {
+        "task": "Review operational costs",
+        "priority": "High"
+    },
+    {
+        "task": "Update work schedules",
+        "priority": "Medium"
+    },
+    {
+        "task": "Organize equipment room",
+        "priority": "Low"
+    },
+    {
+        "task": "Prepare project summary",
+        "priority": "High"
+    },
+    {
+        "task": "Schedule team workshops",
+        "priority": "Medium"
+    },
+    {
+        "task": "Clean copy room",
+        "priority": "Low"
+    },
+    {
+        "task": "Review safety procedures",
+        "priority": "High"
+    },
+    {
+        "task": "Update resource tracking",
+        "priority": "Medium"
+    },
+    {
+        "task": "Organize meeting schedule",
+        "priority": "Low"
+    },
+    {
+        "task": "Submit annual review",
+        "priority": "High"
+    },
+    {
+        "task": "Schedule system updates",
+        "priority": "Medium"
+    },
+    {
+        "task": "Clean storage units",
+        "priority": "Low"
+    },
+    {
+        "task": "Review project risks",
+        "priority": "High"
+    },
+    {
+        "task": "Update team assignments",
+        "priority": "Medium"
+    },
+    {
+        "task": "Organize vendor files",
+        "priority": "Low"
+    },
+    {
+        "task": "Prepare audit response",
+        "priority": "High"
+    },
+    {
+        "task": "Schedule training sessions",
+        "priority": "Medium"
+    },
+    {
+        "task": "Clean common areas",
+        "priority": "Low"
+    },
+    {
+        "task": "Review budget status",
+        "priority": "High"
+    },
+    {
+        "task": "Update project plans",
+        "priority": "Medium"
+    },
+    {
+        "task": "Organize team documents",
+        "priority": "Low"
+    },
+    {
+        "task": "Submit monthly report",
+        "priority": "High"
+    },
+    {
+        "task": "Schedule department updates",
+        "priority": "Medium"
+    },
+    {
+        "task": "Clean office entrance",
+        "priority": "Low"
+    },
+    {
+        "task": "Review team goals",
+        "priority": "High"
+    },
+    {
+        "task": "Update task tracking",
+        "priority": "Medium"
+    },
+    {
+        "task": "Organize supply inventory",
+        "priority": "Low"
+    },
+    {
+        "task": "Prepare team assessment",
+        "priority": "High"
+    },
+    {
+        "task": "Schedule client meetings",
+        "priority": "Medium"
+    },
+    {
+        "task": "Clean meeting spaces",
+        "priority": "Low"
+    },
+    {
+        "task": "Review process efficiency",
+        "priority": "High"
+    },
+    {
+        "task": "Update workflow documentation",
+        "priority": "Medium"
+    },
+    {
+        "task": "Organize resource library",
+        "priority": "Low"
+    },
+    {
+        "task": "Submit weekly report",
+        "priority": "High"
+    },
+    {
+        "task": "Schedule team calls",
+        "priority": "Medium"
+    },
+    {
+        "task": "Clean staff room",
+        "priority": "Low"
+    },
+    {
+        "task": "Review project status",
+        "priority": "High"
+    },
+    {
+        "task": "Update resource planning",
+        "priority": "Medium"
+    },
+    {
+        "task": "Organize client meetings",
+        "priority": "Low"
+    },
+    {
+        "task": "Prepare performance summary",
+        "priority": "High"
+    },
+    {
+        "task": "Schedule vendor visits",
+        "priority": "Medium"
+    },
+    {
+        "task": "Clean office furniture",
+        "priority": "Low"
+    },
+    {
+        "task": "Review team structure",
+        "priority": "High"
+    },
+    {
+        "task": "Update project documentation",
+        "priority": "Medium"
+    },
+    {
+        "task": "Organize work materials",
+        "priority": "Low"
+    },
+    {
+        "task": "Submit status update",
+        "priority": "High"
+    },
+    {
+        "task": "Schedule resource planning",
+        "priority": "Medium"
+    },
+    {
+        "task": "Clean office decor",
+        "priority": "Low"
+    },
+    {
+        "task": "Review work processes",
+        "priority": "High"
+    },
+    {
+        "task": "Update team guidelines",
+        "priority": "Medium"
+    },
+    {
+        "task": "Organize office equipment",
+        "priority": "Low"
+    },
+    {
+        "task": "Prepare risk assessment",
+        "priority": "High"
+    },
+    {
+        "task": "Schedule progress reviews",
+        "priority": "Medium"
+    },
+    {
+        "task": "Clean work environment",
+        "priority": "Low"
+    },
+    {
+        "task": "Review resource allocation",
+        "priority": "High"
+    },
+    {
+        "task": "Update meeting schedule",
+        "priority": "Medium"
+    },
+    {
+        "task": "Organize team resources",
+        "priority": "Low"
+    },
+    {
+        "task": "Submit project update",
+        "priority": "High"
+    },
+    {
+        "task": "Schedule team planning",
+        "priority": "Medium"
+    },
+    {
+        "task": "Clean office supplies",
+        "priority": "Low"
+    },
+    {
+        "task": "Review team progress",
+        "priority": "High"
+    },
+    {
+        "task": "Update resource tracking",
+        "priority": "Medium"
+    },
+    {
+        "task": "Organize work schedule",
+        "priority": "Low"
+    },
+    {
+        "task": "Prepare team report",
+        "priority": "High"
+    },
+    {
+        "task": "Schedule client feedback",
+        "priority": "Medium"
+    },
+    {
+        "task": "Clean storage space",
+        "priority": "Low"
+    },
+    {
+        "task": "Review workflow efficiency",
+        "priority": "High"
+    },
+    {
+        "task": "Call Ashok about weekend plans",
+        "priority": "Medium"
+    },
+    {
+        "task": "Meet Ram for coffee",
+        "priority": "High"
+    },
+    {
+        "task": "Pick up salad for dinner",
+        "priority": "Low"
+    },
+    {
+        "task": "Text Priya about birthday party",
+        "priority": "Medium"
+    },
+    {
+        "task": "Buy groceries from local market",
+        "priority": "High"
+    },
+    {
+        "task": "Return Rahul's book",
+        "priority": "Low"
+    },
+    {
+        "task": "Schedule dentist appointment",
+        "priority": "High"
+    },
+    {
+        "task": "Pay electricity bill",
+        "priority": "High"
+    },
+    {
+        "task": "Buy birthday gift for Mom",
+        "priority": "High"
+    },
+    {
+        "task": "Call plumber for leaky tap",
+        "priority": "Medium"
+    },
+    {
+        "task": "Pick up dry cleaning",
+        "priority": "Low"
+    },
+    {
+        "task": "Meet Sneha for project discussion",
+        "priority": "High"
+    },
+    {
+        "task": "Buy vegetables from farmer's market",
+        "priority": "Medium"
+    },
+    {
+        "task": "Call Aunt about family gathering",
+        "priority": "Medium"
+    },
+    {
+        "task": "Get car serviced",
+        "priority": "High"
+    },
+    {
+        "task": "Buy medicine from pharmacy",
+        "priority": "High"
+    },
+    {
+        "task": "Meet Raj for lunch",
+        "priority": "Medium"
+    },
+    {
+        "task": "Return library books",
+        "priority": "Low"
+    },
+    {
+        "task": "Call internet provider",
+        "priority": "Medium"
+    },
+    {
+        "task": "Buy milk and bread",
+        "priority": "High"
+    },
+    {
+        "task": "Schedule haircut appointment",
+        "priority": "Low"
+    },
+    {
+        "task": "Meet Sonia for coffee",
+        "priority": "Medium"
+    },
+    {
+        "task": "Buy phone charger",
+        "priority": "Medium"
+    },
+    {
+        "task": "Call Deepak about movie plans",
+        "priority": "Low"
+    },
+    {
+        "task": "Pick up package from post office",
+        "priority": "Medium"
+    },
+    {
+        "task": "Buy birthday card for sister",
+        "priority": "Low"
+    },
+    {
+        "task": "Meet Amit at gym",
+        "priority": "Medium"
+    },
+    {
+        "task": "Call restaurant for reservation",
+        "priority": "High"
+    },
+    {
+        "task": "Buy fruits from market",
+        "priority": "Medium"
+    },
+    {
+        "task": "Schedule yoga class",
+        "priority": "Low"
+    },
+    {
+        "task": "Meet Neha for study group",
+        "priority": "High"
+    },
+    {
+        "task": "Buy dog food",
+        "priority": "High"
+    },
+    {
+        "task": "Call Vikram about car pool",
+        "priority": "Medium"
+    },
+    {
+        "task": "Pick up prescription",
+        "priority": "High"
+    },
+    {
+        "task": "Buy notebook and pens",
+        "priority": "Low"
+    },
+    {
+        "task": "Meet Preeti for tea",
+        "priority": "Medium"
+    },
+    {
+        "task": "Call cable company",
+        "priority": "Low"
+    },
+    {
+        "task": "Buy groceries for week",
+        "priority": "High"
+    },
+    {
+        "task": "Schedule eye check-up",
+        "priority": "Medium"
+    },
+    {
+        "task": "Meet Suresh for business meeting",
+        "priority": "High"
+    },
+    {
+        "task": "Buy printer paper",
+        "priority": "Low"
+    },
+    {
+        "task": "Call Meera about house party",
+        "priority": "Medium"
+    },
+    {
+        "task": "Pick up laundry",
+        "priority": "Low"
+    },
+    {
+        "task": "Buy birthday present for dad",
+        "priority": "High"
+    },
+    {
+        "task": "Meet Anita for breakfast",
+        "priority": "Medium"
+    },
+    {
+        "task": "Call bank about credit card",
+        "priority": "High"
+    },
+    {
+        "task": "Buy bathroom supplies",
+        "priority": "Medium"
+    },
+    {
+        "task": "Schedule dentist cleaning",
+        "priority": "Medium"
+    },
+    {
+        "task": "Meet Rohit for dinner",
+        "priority": "High"
+    },
+    {
+        "task": "Buy cat food",
+        "priority": "High"
+    },
+    {
+        "task": "Call Arun about weekend trip",
+        "priority": "Medium"
+    },
+    {
+        "task": "Pick up shoes from repair",
+        "priority": "Low"
+    },
+    {
+        "task": "Buy kitchen supplies",
+        "priority": "Medium"
+    },
+    {
+        "task": "Meet Pooja for coffee",
+        "priority": "Low"
+    },
+    {
+        "task": "Call insurance company",
+        "priority": "High"
+    },
+    {
+        "task": "Buy office supplies",
+        "priority": "Medium"
+    },
+    {
+        "task": "Schedule car wash",
+        "priority": "Low"
+    },
+    {
+        "task": "Meet Kiran for project review",
+        "priority": "High"
+    },
+    {
+        "task": "Buy household items",
+        "priority": "Medium"
+    },
+    {
+        "task": "Call Nisha about dance class",
+        "priority": "Low"
+    },
+    {
+        "task": "Pick up birthday cake",
+        "priority": "High"
+    },
+    {
+        "task": "Buy garden supplies",
+        "priority": "Low"
+    },
+    {
+        "task": "Meet Sanjay for tennis",
+        "priority": "Medium"
+    },
+    {
+        "task": "Call doctor for appointment",
+        "priority": "High"
+    },
+    {
+        "task": "Buy pet supplies",
+        "priority": "Medium"
+    },
+    {
+        "task": "Schedule home cleaning",
+        "priority": "Low"
+    },
+    {
+        "task": "Meet Anjali for shopping",
+        "priority": "Medium"
+    },
+    {
+        "task": "Buy toilet paper",
+        "priority": "High"
+    },
+    {
+        "task": "Call Mohan about job reference",
+        "priority": "High"
+    },
+    {
+        "task": "Pick up groceries",
+        "priority": "High"
+    },
+    {
+        "task": "Buy school supplies",
+        "priority": "Medium"
+    },
+    {
+        "task": "Meet Ravi for gym",
+        "priority": "Low"
+    },
+    {
+        "task": "Call electrician",
+        "priority": "High"
+    },
+    {
+        "task": "Buy cleaning supplies",
+        "priority": "Medium"
+    },
+    {
+        "task": "Schedule bike repair",
+        "priority": "Low"
+    },
+    {
+        "task": "Meet Pradeep for lunch",
+        "priority": "Medium"
+    },
+    {
+        "task": "Buy laundry detergent",
+        "priority": "High"
+    },
+    {
+        "task": "Call Sarita about tutoring",
+        "priority": "Medium"
+    },
+    {
+        "task": "Pick up medicine",
+        "priority": "High"
+    },
+    {
+        "task": "Buy party supplies",
+        "priority": "Medium"
+    },
+    {
+        "task": "Meet Gaurav for coffee",
+        "priority": "Low"
+    },
+    {
+        "task": "Call travel agent",
+        "priority": "Medium"
+    },
+    {
+        "task": "Buy gift wrapping paper",
+        "priority": "Low"
+    },
+    {
+        "task": "Schedule laptop repair",
+        "priority": "High"
+    },
+    {
+        "task": "Meet Divya for project",
+        "priority": "High"
+    },
+    {
+        "task": "Buy breakfast items",
+        "priority": "Medium"
+    },
+    {
+        "task": "Call Rajesh about party",
+        "priority": "Low"
+    },
+    {
+        "task": "Pick up watch from repair",
+        "priority": "Low"
+    },
+    {
+        "task": "Buy snacks for meeting",
+        "priority": "Medium"
+    },
+    {
+        "task": "Meet Shweta for dinner",
+        "priority": "High"
+    },
+    {
+        "task": "Call internet company",
+        "priority": "Medium"
+    },
+    {
+        "task": "Buy stationery items",
+        "priority": "Low"
+    },
+    {
+        "task": "Schedule phone repair",
+        "priority": "High"
+    },
+    {
+        "task": "Meet Arjun for basketball",
+        "priority": "Medium"
+    },
+    {
+        "task": "Buy lunch items",
+        "priority": "High"
+    },
+    {
+        "task": "Call Sagar about project",
+        "priority": "High"
+    },
+    {
+        "task": "Pick up dinner",
+        "priority": "Medium"
+    },
+    {
+        "task": "Buy bathroom cleaners",
+        "priority": "Low"
+    },
+    {
+        "task": "Meet Kavita for coffee",
+        "priority": "Medium"
+    },
+    {
+        "task": "Call gym about membership",
+        "priority": "Low"
+    },
+    {
+        "task": "Buy water bottles",
+        "priority": "High"
+    },
+    {
+        "task": "Schedule AC maintenance",
+        "priority": "Medium"
+    },
+    {
+        "task": "Meet Ajay for study",
+        "priority": "High"
+    },
+    {
+        "task": "Buy dish soap",
+        "priority": "Medium"
+    },
+    {
+        "task": "Call Manoj about carpooling",
+        "priority": "Low"
+    },
+    {
+        "task": "Pick up parcels",
+        "priority": "Medium"
+    },
+    {
+        "task": "Buy hand soap",
+        "priority": "Low"
+    },
+    {
+        "task": "Meet Sunita for yoga",
+        "priority": "Medium"
+    },
+    {
+        "task": "Call Vivek about meeting",
+        "priority": "High"
+    },
+    {
+        "task": "Buy kitchen towels",
+        "priority": "Low"
+    },
+    {
+        "task": "Coordinate remote team workshop",
+        "priority": "High"
+    },
+    {
+        "task": "Set up VPN access for new employees",
+        "priority": "Medium"
+    },
+    {
+        "task": "Order ergonomic office chairs",
+        "priority": "Low"
+    },
+    {
+        "task": "Review cloud storage security protocols",
+        "priority": "High"
+    },
+    {
+        "task": "Configure new project management software",
+        "priority": "Medium"
+    },
+    {
+        "task": "Book flight tickets for conference",
+        "priority": "High"
+    },
+    {
+        "task": "Update employee vaccination records",
+        "priority": "Medium"
+    },
+    {
+        "task": "Install new video conferencing system",
+        "priority": "High"
+    },
+    {
+        "task": "Renew software licenses for design team",
+        "priority": "Medium"
+    },
+    {
+        "task": "Schedule quarterly fire drill",
+        "priority": "High"
+    },
+    {
+        "task": "Get quotes for office renovation",
+        "priority": "Medium"
+    },
+    {
+        "task": "Update emergency contact list",
+        "priority": "High"
+    },
+    {
+        "task": "Arrange team building retreat",
+        "priority": "Medium"
+    },
+    {
+        "task": "Review cyber insurance policy",
+        "priority": "High"
+    },
+    {
+        "task": "Set up new employee laptops",
+        "priority": "Medium"
+    },
+    {
+        "task": "Create digital onboarding guide",
+        "priority": "High"
+    },
+    {
+        "task": "Order new office printer",
+        "priority": "Medium"
+    },
+    {
+        "task": "Update website SSL certificate",
+        "priority": "High"
+    },
+    {
+        "task": "Schedule IT security training",
+        "priority": "Medium"
+    },
+    {
+        "task": "Review remote work policy",
+        "priority": "High"
+    },
+    {
+        "task": "Organize virtual holiday party",
+        "priority": "Low"
+    },
+    {
+        "task": "Update employee benefits portal",
+        "priority": "High"
+    },
+    {
+        "task": "Schedule server maintenance",
+        "priority": "High"
+    },
+    {
+        "task": "Create social media content calendar",
+        "priority": "Medium"
+    },
+    {
+        "task": "Review cloud storage usage",
+        "priority": "Low"
+    },
+    {
+        "task": "Update company LinkedIn profile",
+        "priority": "Medium"
+    },
+    {
+        "task": "Schedule annual health checkups",
+        "priority": "High"
+    },
+    {
+        "task": "Review data backup procedures",
+        "priority": "High"
+    },
+    {
+        "task": "Order office snack supplies",
+        "priority": "Low"
+    },
+    {
+        "task": "Update employee handbook PDF",
+        "priority": "Medium"
+    },
+    {
+        "task": "Schedule pest control service",
+        "priority": "Medium"
+    },
+    {
+        "task": "Review network security logs",
+        "priority": "High"
+    },
+    {
+        "task": "Order new business cards",
+        "priority": "Low"
+    },
+    {
+        "task": "Update parking permit system",
+        "priority": "Medium"
+    },
+    {
+        "task": "Schedule annual AC maintenance",
+        "priority": "Medium"
+    },
+    {
+        "task": "Review building lease agreement",
+        "priority": "High"
+    },
+    {
+        "task": "Update office floor plans",
+        "priority": "Low"
+    },
+    {
+        "task": "Schedule first aid training",
+        "priority": "High"
+    },
+    {
+        "task": "Review internet service contract",
+        "priority": "Medium"
+    },
+    {
+        "task": "Order new office chairs",
+        "priority": "Low"
+    },
+    {
+        "task": "Update visitor management system",
+        "priority": "Medium"
+    },
+    {
+        "task": "Schedule electrical safety audit",
+        "priority": "High"
+    },
+    {
+        "task": "Review cleaning service contract",
+        "priority": "Medium"
+    },
+    {
+        "task": "Order office plants",
+        "priority": "Low"
+    },
+    {
+        "task": "Update company phone directory",
+        "priority": "Medium"
+    },
+    {
+        "task": "Schedule fire extinguisher check",
+        "priority": "High"
+    },
+    {
+        "task": "Review office insurance policy",
+        "priority": "High"
+    },
+    {
+        "task": "Order new desk lamps",
+        "priority": "Low"
+    },
+    {
+        "task": "Update office access codes",
+        "priority": "High"
+    },
+    {
+        "task": "Schedule carpet cleaning",
+        "priority": "Low"
+    },
+    {
+        "task": "Review security camera system",
+        "priority": "High"
+    },
+    {
+        "task": "Order new keyboards",
+        "priority": "Low"
+    },
+    {
+        "task": "Update emergency exit signs",
+        "priority": "High"
+    },
+    {
+        "task": "Schedule plumbing inspection",
+        "priority": "Medium"
+    },
+    {
+        "task": "Review parking lot contract",
+        "priority": "Medium"
+    },
+    {
+        "task": "Order new monitors",
+        "priority": "Medium"
+    },
+    {
+        "task": "Update office signage",
+        "priority": "Low"
+    },
+    {
+        "task": "Schedule elevator maintenance",
+        "priority": "High"
+    },
+    {
+        "task": "Review waste management contract",
+        "priority": "Medium"
+    },
+    {
+        "task": "Order new mouse pads",
+        "priority": "Low"
+    },
+    {
+        "task": "Update building access cards",
+        "priority": "High"
+    },
+    {
+        "task": "Schedule window cleaning",
+        "priority": "Low"
+    },
+    {
+        "task": "Review office lighting system",
+        "priority": "Medium"
+    },
+    {
+        "task": "Order new headphones",
+        "priority": "Medium"
+    },
+    {
+        "task": "Update parking permits",
+        "priority": "Medium"
+    },
+    {
+        "task": "Schedule HVAC maintenance",
+        "priority": "High"
+    },
+    {
+        "task": "Review office furniture inventory",
+        "priority": "Medium"
+    },
+    {
+        "task": "Order new webcams",
+        "priority": "Medium"
+    },
+    {
+        "task": "Update office map",
+        "priority": "Low"
+    },
+    {
+        "task": "Schedule roof inspection",
+        "priority": "High"
+    },
+    {
+        "task": "Review office supplies vendor",
+        "priority": "Medium"
+    },
+    {
+        "task": "Order new USB hubs",
+        "priority": "Low"
+    },
+    {
+        "task": "Update conference room schedule",
+        "priority": "Medium"
+    },
+    {
+        "task": "Schedule security audit",
+        "priority": "High"
+    },
+    {
+        "task": "Review office phone system",
+        "priority": "Medium"
+    },
+    {
+        "task": "Order new surge protectors",
+        "priority": "Low"
+    },
+    {
+        "task": "Update office inventory list",
+        "priority": "Medium"
+    },
+    {
+        "task": "Schedule generator maintenance",
+        "priority": "High"
+    },
+    {
+        "task": "Review office layout plan",
+        "priority": "Medium"
+    },
+    {
+        "task": "Order new laptop stands",
+        "priority": "Low"
+    },
+    {
+        "task": "Update employee directory photos",
+        "priority": "Medium"
+    },
+    {
+        "task": "Schedule air quality test",
+        "priority": "High"
+    },
+    {
+        "task": "Review printer maintenance contract",
+        "priority": "Medium"
+    },
+    {
+        "task": "Order new cable organizers",
+        "priority": "Low"
+    },
+    {
+        "task": "Update office seating chart",
+        "priority": "Medium"
+    },
+    {
+        "task": "Schedule water testing",
+        "priority": "High"
+    },
+    {
+        "task": "Review office coffee service",
+        "priority": "Low"
+    },
+    {
+        "task": "Order new desk organizers",
+        "priority": "Low"
+    },
+    {
+        "task": "Update visitor badges",
+        "priority": "Medium"
+    },
+    {
+        "task": "Schedule pest inspection",
+        "priority": "Medium"
+    },
+    {
+        "task": "Review office water service",
+        "priority": "Medium"
+    },
+    {
+        "task": "Order new document holders",
+        "priority": "Low"
+    },
+    {
+        "task": "Update emergency procedures",
+        "priority": "High"
+    },
+    {
+        "task": "Schedule alarm system test",
+        "priority": "High"
+    },
+    {
+        "task": "Review office snack service",
+        "priority": "Low"
+    },
+    {
+        "task": "Order new monitor stands",
+        "priority": "Low"
+    },
+    {
+        "task": "Update office WiFi password",
+        "priority": "High"
+    },
+    {
+        "task": "Schedule lighting inspection",
+        "priority": "Medium"
+    },
+    {
+        "task": "Review office cleaning supplies",
+        "priority": "Medium"
+    },
+    {
+        "task": "Order new keyboard wrist rests",
+        "priority": "Low"
+    },
+    {
+        "task": "Update office phone list",
+        "priority": "Medium"
+    },
+    {
+        "task": "Schedule fire alarm test",
+        "priority": "High"
+    },
+    {
+        "task": "Review office security system",
+        "priority": "High"
+    },
+    {
+        "task": "Order new mouse pads",
+        "priority": "Low"
+    },
+    {
+        "task": "Update office evacuation plan",
+        "priority": "High"
+    },
+    {
+        "task": "Schedule door maintenance",
+        "priority": "Medium"
+    },
+    {
+        "task": "Review office first aid kits",
+        "priority": "High"
+    },
+    {
+        "task": "Order new desk calendars",
+        "priority": "Low"
+    },
+    {
+        "task": "Update office contact list",
+        "priority": "Medium"
+    },
+    {
+        "task": "Schedule safety inspection",
+        "priority": "High"
+    },
+    {
+        "task": "Review office recycling program",
+        "priority": "Medium"
+    },
+    {
+        "task": "Order new file folders",
+        "priority": "Low"
+    },
+    {
+        "task": "Update office directory",
+        "priority": "Medium"
+    },
+    {
+        "task": "Schedule lock maintenance",
+        "priority": "High"
+    },
+    {
+        "task": "Review office kitchen supplies",
+        "priority": "Medium"
+    },
+    {
+        "task": "Order new staplers",
+        "priority": "Low"
+    },
+    {
+        "task": "Update office hours sign",
+        "priority": "Low"
+    },
+    {
+        "task": "Schedule ventilation check",
+        "priority": "High"
+    },
+    {
+        "task": "Review office parking policy",
+        "priority": "Medium"
+    },
+    {
+        "task": "Order new paper clips",
+        "priority": "Low"
+    },
+    {
+        "task": "Update office rules poster",
+        "priority": "Medium"
+    },
+    {
+        "task": "Schedule carpet inspection",
+        "priority": "Medium"
+    },
+    {
+        "task": "Review office equipment list",
+        "priority": "Medium"
+    },
+    {
+        "task": "Order new rubber bands",
+        "priority": "Low"
+    },
+    {
+        "task": "Update office calendar",
+        "priority": "Medium"
+    },
+    {
+        "task": "Schedule window inspection",
+        "priority": "Medium"
+    },
+    {
+        "task": "Review office supply budget",
+        "priority": "High"
+    },
+    {
+        "task": "Order new pencils",
+        "priority": "Low"
+    },
+    {
+        "task": "Update office schedule",
+        "priority": "Medium"
+    },
+    {
+        "task": "Schedule paint touch-ups",
+        "priority": "Low"
+    },
+    {
+        "task": "Review office maintenance log",
+        "priority": "Medium"
+    },
+    {
+        "task": "Order new pens",
+        "priority": "Low"
+    },
+    {
+        "task": "Update office bulletin board",
+        "priority": "Low"
+    },
+    {
+        "task": "Schedule floor waxing",
+        "priority": "Medium"
+    },
+    {
+        "task": "Review office storage space",
+        "priority": "Medium"
+    },
+    {
+        "task": "Order new highlighters",
+        "priority": "Low"
+    },
+    {
+        "task": "Update office signage",
+        "priority": "Medium"
+    },
+    {
+        "task": "Schedule wall repairs",
+        "priority": "Medium"
+    },
+    {
+        "task": "Review office furniture layout",
+        "priority": "Medium"
+    },
+    {
+        "task": "Order new markers",
+        "priority": "Low"
+    },
+    {
+        "task": "Update office door signs",
+        "priority": "Low"
+    },
+    {
+        "task": "Schedule ceiling inspection",
+        "priority": "Medium"
+    },
+    {
+        "task": "Review office equipment maintenance",
+        "priority": "High"
+    },
+    {
+        "task": "Order new erasers",
+        "priority": "Low"
+    },
+    {
+        "task": "Update office notice board",
+        "priority": "Low"
+    },
+    {
+        "task": "Schedule bathroom renovation",
+        "priority": "High"
+    },
+    {
+        "task": "Review office decoration policy",
+        "priority": "Low"
+    },
+    {
+        "task": "Order new printer paper",
+        "priority": "Medium"
+    },
+    {
+        "task": "Update office equipment log",
+        "priority": "Medium"
+    },
+    {
+        "task": "Schedule furniture cleaning",
+        "priority": "Medium"
+    },
+    {
+        "task": "Review office supply inventory",
+        "priority": "Medium"
+    },
+    {
+        "task": "Order new notebooks",
+        "priority": "Low"
+    },
+    {
+        "task": "Update office phone system",
+        "priority": "High"
+    },
+    {
+        "task": "Schedule door painting",
+        "priority": "Low"
+    },
+    {
+        "task": "Review office waste policy",
+        "priority": "Medium"
+    },
+    {
+        "task": "Order new folders",
+        "priority": "Low"
+    },
+    {
+        "task": "Update office supply list",
+        "priority": "Medium"
+    },
+    {
+        "task": "Schedule lock replacement",
+        "priority": "High"
+    },
+    {
+        "task": "Submit quarterly report",
+        "priority": "High"
+    },
+    {
+        "task": "Update client database",
+        "priority": "Medium"
+    },
+    {
+        "task": "Restock office supplies",
+        "priority": "Low"
+    },
+    {
+        "task": "Prepare presentation slides",
+        "priority": "High"
+    },
+    {
+        "task": "Schedule team meeting",
+        "priority": "Medium"
+    },
+    {
+        "task": "Review project proposals",
+        "priority": "High"
+    },
+    {
+        "task": "Back up computer files",
+        "priority": "Medium"
+    },
+    {
+        "task": "Clean workspace",
+        "priority": "Low"
+    },
+    {
+        "task": "Submit expense reports",
+        "priority": "High"
+    },
+    {
+        "task": "Update software licenses",
+        "priority": "Medium"
+    },
+    {
+        "task": "Send follow-up emails",
+        "priority": "Low"
+    },
+    {
+        "task": "Prepare budget forecast",
+        "priority": "High"
+    },
+    {
+        "task": "Organize digital files",
+        "priority": "Medium"
+    },
+    {
+        "task": "Water office plants",
+        "priority": "Low"
+    },
+    {
+        "task": "Complete performance reviews",
+        "priority": "High"
+    },
+    {
+        "task": "Update project timeline",
+        "priority": "Medium"
+    },
+    {
+        "task": "Order business cards",
+        "priority": "Low"
+    },
+    {
+        "task": "Review contract terms",
+        "priority": "High"
+    },
+    {
+        "task": "Schedule client calls",
+        "priority": "Medium"
+    },
+    {
+        "task": "Archive old documents",
+        "priority": "Low"
+    },
+    {
+        "task": "Prepare training materials",
+        "priority": "High"
+    },
+    {
+        "task": "Update team calendar",
+        "priority": "Medium"
+    },
+    {
+        "task": "Sort incoming mail",
+        "priority": "Low"
+    },
+    {
+        "task": "Submit tax documents",
+        "priority": "High"
+    },
+    {
+        "task": "Update contact list",
+        "priority": "Medium"
+    },
+    {
+        "task": "Organize supply closet",
+        "priority": "Low"
+    },
+    {
+        "task": "Finalize project deliverables",
+        "priority": "High"
+    },
+    {
+        "task": "Schedule maintenance check",
+        "priority": "Medium"
+    },
+    {
+        "task": "Clean printer area",
+        "priority": "Low"
+    },
+    {
+        "task": "Prepare annual report",
+        "priority": "High"
+    },
+    {
+        "task": "Update employee handbook",
+        "priority": "Medium"
+    },
+    {
+        "task": "Organize break room",
+        "priority": "Low"
+    },
+    {
+        "task": "Review security protocols",
+        "priority": "High"
+    },
+    {
+        "task": "Schedule team building",
+        "priority": "Medium"
+    },
+    {
+        "task": "Update office layout",
+        "priority": "Low"
+    },
+    {
+        "task": "Prepare financial statements",
+        "priority": "High"
+    },
+    {
+        "task": "Review marketing materials",
+        "priority": "Medium"
+    },
+    {
+        "task": "Clean conference room",
+        "priority": "Low"
+    },
+    {
+        "task": "Update emergency procedures",
+        "priority": "High"
+    },
+    {
+        "task": "Schedule vendor meetings",
+        "priority": "Medium"
+    },
+    {
+        "task": "Organize storage room",
+        "priority": "Low"
+    },
+    {
+        "task": "Complete compliance training",
+        "priority": "High"
+    },
+    {
+        "task": "Update website content",
+        "priority": "Medium"
+    },
+    {
+        "task": "Sort office supplies",
+        "priority": "Low"
+    },
+    {
+        "task": "Prepare board presentation",
+        "priority": "High"
+    },
+    {
+        "task": "Schedule interviews",
+        "priority": "Medium"
+    },
+    {
+        "task": "Clean kitchen area",
+        "priority": "Low"
+    },
+    {
+        "task": "Review risk assessment",
+        "priority": "High"
+    },
+    {
+        "task": "Update social media",
+        "priority": "Medium"
+    },
+    {
+        "task": "Organize file cabinet",
+        "priority": "Low"
+    },
+    {
+        "task": "Submit grant proposal",
+        "priority": "High"
+    },
+    {
+        "task": "Schedule software updates",
+        "priority": "Medium"
+    },
+    {
+        "task": "Clean reception area",
+        "priority": "Low"
+    },
+    {
+        "task": "Prepare sales forecast",
+        "priority": "High"
+    },
+    {
+        "task": "Update inventory list",
+        "priority": "Medium"
+    },
+    {
+        "task": "Organize server room",
+        "priority": "Low"
+    },
+    {
+        "task": "Complete audit requirements",
+        "priority": "High"
+    },
+    {
+        "task": "Schedule equipment maintenance",
+        "priority": "Medium"
+    },
+    {
+        "task": "Clean bathroom facilities",
+        "priority": "Low"
+    },
+    {
+        "task": "Review business strategy",
+        "priority": "High"
+    },
+    {
+        "task": "Update employee records",
+        "priority": "Medium"
+    },
+    {
+        "task": "Organize supply inventory",
+        "priority": "Low"
+    },
+    {
+        "task": "Prepare market analysis",
+        "priority": "High"
+    },
+    {
+        "task": "Schedule training sessions",
+        "priority": "Medium"
+    },
+    {
+        "task": "Clean windows",
+        "priority": "Low"
+    },
+    {
+        "task": "Submit insurance forms",
+        "priority": "High"
+    },
+    {
+        "task": "Update process documentation",
+        "priority": "Medium"
+    },
+    {
+        "task": "Organize storage closet",
+        "priority": "Low"
+    },
+    {
+        "task": "Review budget allocation",
+        "priority": "High"
+    },
+    {
+        "task": "Schedule department meetings",
+        "priority": "Medium"
+    },
+    {
+        "task": "Clean parking area",
+        "priority": "Low"
+    },
+    {
+        "task": "Prepare investor presentation",
+        "priority": "High"
+    },
+    {
+        "task": "Update project status",
+        "priority": "Medium"
+    },
+    {
+        "task": "Organize office layout",
+        "priority": "Low"
+    },
+    {
+        "task": "Complete safety inspection",
+        "priority": "High"
+    },
+    {
+        "task": "Schedule client meetings",
+        "priority": "Medium"
+    },
+    {
+        "task": "Clean outdoor space",
+        "priority": "Low"
+    },
+    {
+        "task": "Research industry trends",
+        "priority": "High"
+    },
+    {
+        "task": "Analyze competitor strategies",
+        "priority": "Medium"
+    },
+    {
+        "task": "Optimize digital marketing campaigns",
+        "priority": "High"
+    },
+    {
+        "task": "Develop customer outreach plan",
+        "priority": "Medium"
+    },
+    {
+        "task": "Plan content calendar",
+        "priority": "High"
+    },
+    {
+        "task": "Revise operational workflows",
+        "priority": "Medium"
+    },
+    {
+        "task": "Test new software tools",
+        "priority": "Medium"
+    }
+]
