@@ -16,7 +16,7 @@ app = Flask(__name__)
 # Configure CORS
 CORS(app, resources={
     r"/api/*": {
-        "origins": ["http://localhost:3000", "https://your-frontend-domain.com"],
+        "origins": ["http://localhost:3000", "https://ainote-ochre.vercel.app"],
         "methods": ["POST"],
         "allow_headers": ["Content-Type", "Authorization"]
     }
